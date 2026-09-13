@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faisal Hamid</h1>
 
 <h3 align="center">
-  Data Science & Machine Learning Enthusiast from Bangladesh 🇧🇩
+Data Science & Machine Learning Enthusiast | CSE Student | AI Explorer
 </h3>
 
 <p align="center">
   <a href="https://github.com/faisal1018">
-    <img src="https://komarev.com/ghpvc/?username=faisal1018&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=faisal1018&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -14,35 +14,35 @@
 
 ## 👨‍💻 About Me
 
-I'm **Faisal Hamid**, a Computer Science student passionate about **Data Science, Machine Learning, and Artificial Intelligence**.
+I'm **Faisal Hamid**, a Computer Science & Engineering student passionate about
+**Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
-I enjoy turning real-world data into meaningful insights and building practical machine learning applications.
+I enjoy building practical projects that combine programming, data, machine
+learning, and real-world problem solving.
 
-- 🎓 Computer Science & Engineering student
-- 📊 Focused on Data Science & Machine Learning
-- 🐍 Strong interest in Python and data-driven problem solving
-- 🤖 Building practical ML projects and deploying them with Streamlit
-- 📚 Continuously learning Statistics, Machine Learning and AI
-- 🚀 Interested in building real-world, portfolio-ready projects
-- 🌱 Currently expanding my knowledge toward **Deep Learning & NLP**
+- 🎓 Computer Science & Engineering Student
+- 📊 Passionate about Data Science & Machine Learning
+- 🤖 Exploring Artificial Intelligence
+- 🐍 Working mainly with Python
+- 🌐 Interested in ML-powered applications and deployment
+- 📚 Continuously improving my skills through projects and professional certifications
+- 🚀 Currently expanding my knowledge in Deep Learning and NLP
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js" />
-</p>
-
-### 📊 Data Science & Machine Learning
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,,R,c,cpp" />
 </p>
 
-**Libraries & Tools**
+### Data Science & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
 
 - NumPy
 - Pandas
@@ -50,139 +50,231 @@ I enjoy turning real-world data into meaningful insights and building practical 
 - Seaborn
 - Scikit-learn
 - XGBoost
-- Streamlit
-- Jupyter Notebook
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL
-- SQL
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
----
-
-## 🤖 Machine Learning
-
-I have experience working with different supervised and ensemble learning algorithms, including:
-
-- Logistic Regression
-- K-Nearest Neighbors
-- Decision Trees
-- Random Forest
-- XGBoost
-- Model Evaluation & Cross-Validation
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+- Cross-Validation
 - Hyperparameter Tuning
 - GridSearchCV
-- Feature Preprocessing
-- Imbalanced Dataset Handling
-- Model Deployment with Streamlit
+- Streamlit
+
+
+### Database
+
+<p>
+  https://skillicons.dev/icons?i=postgres
+</p>
+
+- PostgreSQL
+- SQL
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 Student Performance Prediction
+## ⚽ English Premier League Match Prediction System
 
-A machine learning application that predicts student grade classes based on academic and behavioral factors.
+A machine learning based system designed to predict English Premier League
+match outcomes using historical football data and machine learning techniques.
 
-**Tech:** Python · Pandas · Scikit-learn · Logistic Regression · Streamlit
+**Focus:** Machine Learning + Sports Analytics
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+**Technologies:**
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
 
----
-
-### 🏫 School Information System
-
-A responsive static website designed to provide information about a school, including students, teachers, admissions and contact information.
-
-**Tech:** HTML · CSS · JavaScript · Bootstrap
-
-🔗 [Live Website](https://faisal1018.github.io/School-Information-System/index.html)
-
-🔗 [GitHub Repository](YOUR_REPOSITORY_LINK)
+🔗 [GitHub Repository]([YOUR_EPL_GITHUB_LINK](https://github.com/Faisal1018/EPL-Prediction))  
+🔗 [Live Demo]([YOUR_EPL_DEMO_LINK](https://faisal1018epl-prediction.streamlit.app/))
 
 ---
 
-### 📚 Library Management System
+## 🎓 Student Performance Prediction System
 
-A PHP and MySQL based library management system featuring authentication, book management and user/admin workflows.
+A machine learning application that predicts student grade classes based on
+academic and behavioral factors.
 
-**Tech:** PHP · MySQL · HTML · CSS · JavaScript
+**Focus:** Machine Learning + Data Analytics
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+**Technologies:**
+`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Streamlit`
 
----
-
-## 🏆 Certifications & Credentials
-
-### 🎓 WorldQuant University
-
-**Applied Data Science Lab**
-
-Completed an intensive applied data science program involving real-world datasets and end-to-end data science projects.
-
-**Skills:** Python · SQL · Statistics · Data Analysis · Machine Learning · Data Visualization
-
-🔗 [View Verified WQU Credential](YOUR_WQU_CREDLY_LINK)
+🔗 [GitHub Repository]([YOUR_STUDENT_GITHUB_LINK](https://github.com/Faisal1018/Student-Performance-Prediction))  
+🔗 [Live Demo]([YOUR_STUDENT_DEMO_LINK](https://student-performance-prediction1018.streamlit.app/))
 
 ---
 
-### 📊 Great Learning
+## 🛡️ AI Network Intrusion Detection System
 
-**Data Science with Python**
+An AI-powered cybersecurity project designed to detect potentially malicious
+network activity using machine learning techniques.
 
-Covered Python-based data science, statistics, data transformation, visualization and machine learning fundamentals.
+**Focus:** Machine Learning + Cyber Security
 
-**Skills:** Python · NumPy · Pandas · Matplotlib · Seaborn · Machine Learning
+**Technologies:**
+`Python` `Machine Learning` `Cyber Security`
+
+🔗 [GitHub Repository]((https://github.com/Faisal1018/AI-Network-Intrusion-Detection-System))  
+🔗 [Live Demo](https://ai-network-intrusion-detection-system-eymfk4ntpf75dsxb5yoayt.streamlit.app/)
+
+---
+
+## 📰 AI Fake News Detection System
+
+An NLP-based machine learning application designed to classify news content
+and identify potentially fake or misleading information.
+
+**Focus:** NLP + Machine Learning
+
+**Technologies:**
+`Python` `NLP` `Machine Learning`
+
+🔗 [GitHub Repository](https://github.com/Faisal1018/AI-Fake-News-Detection-System)  
+🔗 [Live Demo](https://ai-fake-news-detection-system-8sbe42prsc7dkjctetxgut.streamlit.app/)
+
+---
+
+## 🩺 Sepsis Early Warning System
+
+A machine learning based healthcare project designed to provide early warning
+for potential sepsis cases using patient-related data.
+
+**Focus:** Healthcare + Machine Learning + Data Science
+
+**Technologies:**
+`Python` `Machine Learning` `Data Science`
+
+🔗 [GitHub Repository](https://github.com/Faisal1018/Sepsis-early-warning-system)  
+🔗 [Live Demo](https://sepsis-early-warning-system-kjmtbe6wxygc3vzyvnrawc.streamlit.app/)
+
+---
+
+## 🌐 Enterprise Network Architecture
+
+A network architecture project designed and simulated using Cisco Packet Tracer.
+
+**Focus:** Networking + Network Architecture
+
+**Technologies:**
+`Cisco Packet Tracer` `Networking`
+
+🔗 [GitHub Repository](https://github.com/Faisal1018/Enterprise-Network-Architecture-Cisco-Packet-Tracer)
+
+---
+
+## 🏫 School Information System
+
+A complete static school information website providing information about
+students, teachers, admissions, and school facilities.
+
+**Focus:** Web Development
+
+**Technologies:**
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+🌐 [Live Website](https://faisal1018.github.io/School-Information-System/index.html)  
+🔗 [GitHub Repository](https://github.com/Faisal1018/School-Information-System)
+
+---
+
+# 🏆 Certifications & Credentials
+
+## 🎓 WorldQuant University
+
+### Applied Data Science Lab
+
+Completed the **Applied Data Science Lab** at WorldQuant University,
+focused on practical and applied data science.
+
+**Areas:**
+`Python` `Data Science` `Statistics` `Data Analysis` `Machine Learning`
+
+🔗 [View Verified Credential](https://www.credly.com/badges/f94dcbf3-7e31-40be-a80b-3a489399cfaf/public_url)
+
+---
+
+## 📊 Great Learning
+
+### Data Science with Python
+
+Completed **Data Science with Python** covering Python-based data science,
+data analysis, visualization, and machine learning fundamentals.
+
+**Skills:**
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Machine Learning`
 
 🔗 [View Certificate](https://www.mygreatlearning.com/certificate/WGNTPCPS)
 
 ---
 
-### 🏢 Deloitte
+## 🏢 Deloitte
 
-**Deloitte Certificate / Virtual Experience**
+### Data Analytics Job Simulation
 
-Completed a Deloitte learning / professional experience program.
+Completed the **Deloitte Data Analytics Job Simulation**.
 
-**Skills:** Data Analysis · Problem Solving · Business & Data Thinking
+**Focus:**
+`Data Analytics` `Data Interpretation` `Business Problem Solving`
 
-🔗 [View Certificate](YOUR_DELOITTE_LINK)
-
----
-
-### 🎓 UniAthena
-
-**Professional Certification**
-
-Completed professional learning and certification through UniAthena.
-
-🔗 [View Certificate](YOUR_UNIATHENA_LINK)
+🔗 [View Certificate]([YOUR_DELOITTE_LINK](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_698f4f9677f6324da68473e8_1771005337338_completion_certificate.pdf))
 
 ---
 
-## 📚 Currently Learning
+## 🎓 UniAthena
+
+### Basics of Data Science
+
+Completed **Basics of Data Science** certification.
+
+**Focus:**
+`Data Science` `Data Analysis` `Python`
+
+🔗 [View Certificate](https://docs.uniathena.com/prod/user_261187169/certificate/261187169_117_1789232836_certificate.pdf)
+
+---
+
+## 🐍 UniAthena
+
+### Basics of Python
+
+Completed **Basics of Python** certification.
+
+**Focus:**
+`Python` `Programming Fundamentals`
+
+🔗 [View Certificate](https://docs.uniathena.com/prod/user_261187169/certificate/261187169_323_1786115436_certificate.pdf)
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously working on improving my knowledge in:
+
+- 🤖 Advanced Machine Learning
+- 🧠 Deep Learning
+- 🔤 Natural Language Processing
+- 📊 Advanced Data Science
+- 🚀 Machine Learning Deployment
+- 🧩 Artificial Intelligence
+
+### My Learning Path
 
 ```text
+Python
+   ↓
+Data Analysis
+   ↓
 Machine Learning
-      ↓
+   ↓
 Deep Learning
-      ↓
-Natural Language Processing
-      ↓
+   ↓
+NLP
+   ↓
+Computer Vision
+   ↓
 Artificial Intelligence
